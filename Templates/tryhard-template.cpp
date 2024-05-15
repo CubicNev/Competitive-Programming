@@ -16,7 +16,7 @@ typedef long long ll;
 
 // Best practices
 using std::cin;
-using std::count;
+using std::cout;
 using std::string;
 using std::ios_base;
 
