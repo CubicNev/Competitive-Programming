@@ -5,6 +5,7 @@
 - [Introducción](#introducción)
 - [Memoria](#memoria)
 - [Principales tipos de datos](#principales-tipos-de-datos)
+  - [El tipo de dato `char`](#el-tipo-de-dato-char)
 
 ## Introducción
 
@@ -51,3 +52,5 @@ En general cuenta con los tipos de datos tradicionales de un lenguaje de program
 ### El tipo de dato `char`
 
 Representa un carácter como `'a'` o `'z'`
+
+## Fuentes

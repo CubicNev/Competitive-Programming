@@ -13,9 +13,24 @@ The recommended order to view the contents:
    4. Set
    5. Map (Hash table)
    6. Heap
+   7. Deque
 6. Algorithms
    1. Greedy
    2. Binary Search
    3. Dinamic Programming
 7. Recursive
 8. Bit Manipulation
+9. Graphs
+   1. DFS
+   2. BFS
+   3. Dijkstra
+10. Segment tree
+11. Mod
+    1. Modular Congurecy
+    2. Binary exponentiation
+    3. Fermat Theorem
+12. Prime numbers
+    1. Introduction to prime numbers
+    2. Eratosthenes sieve
+    3. Fundamental theorem of arithmetic
+    4. Prime divisor

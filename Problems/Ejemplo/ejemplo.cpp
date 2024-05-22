@@ -1,16 +1,22 @@
 /**
  * Author: Carlos Nevárez - @CubicNev
  *
- * Suma del 1 a n
+ * Suma de 1 hasta n
 */
 # include <iostream>
 # include <bits/stdc++.h>
 
+# define endl "\n"
+
 using namespace std;
 
-void solve() {
-    int n;
+typedef unsigned long long int numerote;
+
+numerote solve() {
+    numerote n;
     cin >> n;
+
+    return (n*(n-1))/2;
 }
 
 int main() {
@@ -18,10 +24,12 @@ int main() {
     cin.tie(0);
     cout.tie(0);
 
-    int t;
-    cin>>t;
+    // No ocupa tanto espacio
+    short int t;
+
+    cin >> t;
     while (t--)
     {
-        solve();
+        cout << solve() << endl;
     }
 }
