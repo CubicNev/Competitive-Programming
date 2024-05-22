@@ -1,7 +1,7 @@
 /**
  * Author: Carlos Nevárez - @CubicNev
  *
- * Suma de 1 hasta n
+ * Suma de 1 hasta n un número MUUUY grande
 */
 # include <iostream>
 # include <bits/stdc++.h>
