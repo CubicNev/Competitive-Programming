@@ -53,4 +53,24 @@ En general cuenta con los tipos de datos tradicionales de un lenguaje de program
 
 Representa un carácter como `'a'` o `'z'`
 
+### El tipo de dato `int`
+
+### El tipo de dato `float`
+
+### El tipo de dato `double`
+
+### El tipo de dato `bool`
+
+### El tipo de dato `string`
+
+## Modificadores
+
+### El modificador `unsigned`
+
+### El modificador `short`
+
+### Modidificador `long`
+
+### Modificador `long long`
+
 ## Fuentes

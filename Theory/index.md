@@ -2,6 +2,7 @@
 
 The recommended order to view the contents:
 
+0. [El lenguaje C](./El%20lenguaje%20C.md)
 1. [El lenguaje C++](./El%20lenguaje%20C++.md)
 2. Complejidad Algorítmica
 3. [Prefix Sum](./Pefix%20Sum.md)
